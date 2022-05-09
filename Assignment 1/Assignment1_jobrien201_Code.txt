@@ -1,0 +1,22 @@
+/**
+ * This program is my solution to the Assignment in Module 1.
+ * Returns the JAVA art as specified in the assignment requirements.
+ * I am open to feedback regarding the design, style and code of this solution.
+ * @author: Jose O'Brien
+*/
+
+public class Assignment1
+{
+  public static void main( String [] args )
+  {
+      
+    System.out.print( "\n\n\n\n\tJ     A     V     V     A\n"); //first line of JAVA art, using 5 space tabs between letters
+    
+    System.out.print( "\tJ    A A     V   V     A A\n");//second line of JAVA art, based on the space tabs used in the previous line
+    
+    System.out.print( "    J   J   AAAAA     V V     AAAAA\n");
+    
+    System.out.println( "     J J   A     A     V     A     A\n\n");
+    
+  }
+}
